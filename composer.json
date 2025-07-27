@@ -1,0 +1,9 @@
+{
+    "require": {
+        "kreait/firebase-php": "*",
+        "grpc/grpc": "*"
+    },
+    "require-dev": {
+        "laravel/tinker": "*"
+    }
+}
